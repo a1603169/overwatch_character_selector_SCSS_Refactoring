@@ -1,0 +1,19 @@
+{
+  "name": "overwatch_character",
+  "version": "1.0.0",
+  "description": "오버워치 영웅 선택 화면 예제!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "sass": "^1.35.1"
+  }
+}
