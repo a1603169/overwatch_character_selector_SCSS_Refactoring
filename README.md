@@ -4,10 +4,6 @@
 
 [DEMO](https://practical-bartik-a2000a.netlify.app/)
 
-## SCSS 리팩토링 버전
-
-https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla/tree/refactoring-scss
-
 ## Image url
 
 #### Characters
